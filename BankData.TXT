@@ -1,0 +1,3 @@
+Jane Smith,69713,r,0,0
+Ted Murphy,72354,c,-10000,10000
+Edward Demsey,93757,c,75932,50000
