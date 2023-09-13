@@ -1,8 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+
 
 PROJECT TITLE: Bank Project 
 
@@ -14,4 +10,4 @@ HOW TO START THIS PROJECT: Enter a valid ID that is shown in the terminal
 
 AUTHORS: Mathew Sabu
 
-USER INSTRUCTIONS:First enter a valid ID. Then type in withdraw if you want to withdraw, deposit if you want to deposit, and balance if you want to see the balance. To input the money use " . " to separate the dollars and cents. Then when you are done jus type " done".
+USER INSTRUCTIONS:First enter a valid ID. Then type in withdraw if you want to withdraw, deposit if you want to deposit, and balance if you want to see the balance. To input the money use " . " to separate the dollars and cents. Then when you are done just type " done".
